@@ -1,0 +1,15 @@
+D:\WinForms\7.3-Lform\7.3-Lform\bin\Debug\netcoreapp3.1\7.3-Lform.exe
+D:\WinForms\7.3-Lform\7.3-Lform\bin\Debug\netcoreapp3.1\7.3-Lform.deps.json
+D:\WinForms\7.3-Lform\7.3-Lform\bin\Debug\netcoreapp3.1\7.3-Lform.runtimeconfig.json
+D:\WinForms\7.3-Lform\7.3-Lform\bin\Debug\netcoreapp3.1\7.3-Lform.runtimeconfig.dev.json
+D:\WinForms\7.3-Lform\7.3-Lform\bin\Debug\netcoreapp3.1\7.3-Lform.dll
+D:\WinForms\7.3-Lform\7.3-Lform\bin\Debug\netcoreapp3.1\7.3-Lform.pdb
+D:\WinForms\7.3-Lform\7.3-Lform\obj\Debug\netcoreapp3.1\7.3-Lform.csprojAssemblyReference.cache
+D:\WinForms\7.3-Lform\7.3-Lform\obj\Debug\netcoreapp3.1\_7._3_Lform.Form1.resources
+D:\WinForms\7.3-Lform\7.3-Lform\obj\Debug\netcoreapp3.1\7.3-Lform.csproj.GenerateResource.cache
+D:\WinForms\7.3-Lform\7.3-Lform\obj\Debug\netcoreapp3.1\7.3-Lform.AssemblyInfoInputs.cache
+D:\WinForms\7.3-Lform\7.3-Lform\obj\Debug\netcoreapp3.1\7.3-Lform.AssemblyInfo.cs
+D:\WinForms\7.3-Lform\7.3-Lform\obj\Debug\netcoreapp3.1\7.3-Lform.csproj.CoreCompileInputs.cache
+D:\WinForms\7.3-Lform\7.3-Lform\obj\Debug\netcoreapp3.1\7.3-Lform.dll
+D:\WinForms\7.3-Lform\7.3-Lform\obj\Debug\netcoreapp3.1\7.3-Lform.pdb
+D:\WinForms\7.3-Lform\7.3-Lform\obj\Debug\netcoreapp3.1\7.3-Lform.genruntimeconfig.cache
