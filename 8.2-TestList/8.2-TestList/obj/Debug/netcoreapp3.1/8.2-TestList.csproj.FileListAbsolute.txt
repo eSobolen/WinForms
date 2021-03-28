@@ -1,0 +1,15 @@
+D:\WinForms\8.2-TestList\8.2-TestList\bin\Debug\netcoreapp3.1\8.2-TestList.exe
+D:\WinForms\8.2-TestList\8.2-TestList\bin\Debug\netcoreapp3.1\8.2-TestList.deps.json
+D:\WinForms\8.2-TestList\8.2-TestList\bin\Debug\netcoreapp3.1\8.2-TestList.runtimeconfig.json
+D:\WinForms\8.2-TestList\8.2-TestList\bin\Debug\netcoreapp3.1\8.2-TestList.runtimeconfig.dev.json
+D:\WinForms\8.2-TestList\8.2-TestList\bin\Debug\netcoreapp3.1\8.2-TestList.dll
+D:\WinForms\8.2-TestList\8.2-TestList\bin\Debug\netcoreapp3.1\8.2-TestList.pdb
+D:\WinForms\8.2-TestList\8.2-TestList\obj\Debug\netcoreapp3.1\8.2-TestList.csprojAssemblyReference.cache
+D:\WinForms\8.2-TestList\8.2-TestList\obj\Debug\netcoreapp3.1\_8._2_TestList.Form1.resources
+D:\WinForms\8.2-TestList\8.2-TestList\obj\Debug\netcoreapp3.1\8.2-TestList.csproj.GenerateResource.cache
+D:\WinForms\8.2-TestList\8.2-TestList\obj\Debug\netcoreapp3.1\8.2-TestList.AssemblyInfoInputs.cache
+D:\WinForms\8.2-TestList\8.2-TestList\obj\Debug\netcoreapp3.1\8.2-TestList.AssemblyInfo.cs
+D:\WinForms\8.2-TestList\8.2-TestList\obj\Debug\netcoreapp3.1\8.2-TestList.csproj.CoreCompileInputs.cache
+D:\WinForms\8.2-TestList\8.2-TestList\obj\Debug\netcoreapp3.1\8.2-TestList.dll
+D:\WinForms\8.2-TestList\8.2-TestList\obj\Debug\netcoreapp3.1\8.2-TestList.pdb
+D:\WinForms\8.2-TestList\8.2-TestList\obj\Debug\netcoreapp3.1\8.2-TestList.genruntimeconfig.cache

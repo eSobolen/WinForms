@@ -1,0 +1,15 @@
+D:\WinForms\8.1-WinQuestion\8.1-WinQuestion\bin\Debug\netcoreapp3.1\8.1-WinQuestion.exe
+D:\WinForms\8.1-WinQuestion\8.1-WinQuestion\bin\Debug\netcoreapp3.1\8.1-WinQuestion.deps.json
+D:\WinForms\8.1-WinQuestion\8.1-WinQuestion\bin\Debug\netcoreapp3.1\8.1-WinQuestion.runtimeconfig.json
+D:\WinForms\8.1-WinQuestion\8.1-WinQuestion\bin\Debug\netcoreapp3.1\8.1-WinQuestion.runtimeconfig.dev.json
+D:\WinForms\8.1-WinQuestion\8.1-WinQuestion\bin\Debug\netcoreapp3.1\8.1-WinQuestion.dll
+D:\WinForms\8.1-WinQuestion\8.1-WinQuestion\bin\Debug\netcoreapp3.1\8.1-WinQuestion.pdb
+D:\WinForms\8.1-WinQuestion\8.1-WinQuestion\obj\Debug\netcoreapp3.1\8.1-WinQuestion.csprojAssemblyReference.cache
+D:\WinForms\8.1-WinQuestion\8.1-WinQuestion\obj\Debug\netcoreapp3.1\_8._1_WinQuestion.Form1.resources
+D:\WinForms\8.1-WinQuestion\8.1-WinQuestion\obj\Debug\netcoreapp3.1\8.1-WinQuestion.csproj.GenerateResource.cache
+D:\WinForms\8.1-WinQuestion\8.1-WinQuestion\obj\Debug\netcoreapp3.1\8.1-WinQuestion.AssemblyInfoInputs.cache
+D:\WinForms\8.1-WinQuestion\8.1-WinQuestion\obj\Debug\netcoreapp3.1\8.1-WinQuestion.AssemblyInfo.cs
+D:\WinForms\8.1-WinQuestion\8.1-WinQuestion\obj\Debug\netcoreapp3.1\8.1-WinQuestion.csproj.CoreCompileInputs.cache
+D:\WinForms\8.1-WinQuestion\8.1-WinQuestion\obj\Debug\netcoreapp3.1\8.1-WinQuestion.dll
+D:\WinForms\8.1-WinQuestion\8.1-WinQuestion\obj\Debug\netcoreapp3.1\8.1-WinQuestion.pdb
+D:\WinForms\8.1-WinQuestion\8.1-WinQuestion\obj\Debug\netcoreapp3.1\8.1-WinQuestion.genruntimeconfig.cache
