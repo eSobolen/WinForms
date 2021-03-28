@@ -1,0 +1,15 @@
+D:\WinForms\7.1-NewAplication\7.1-NewAplication\bin\Debug\netcoreapp3.1\7.1-NewAplication.exe
+D:\WinForms\7.1-NewAplication\7.1-NewAplication\bin\Debug\netcoreapp3.1\7.1-NewAplication.deps.json
+D:\WinForms\7.1-NewAplication\7.1-NewAplication\bin\Debug\netcoreapp3.1\7.1-NewAplication.runtimeconfig.json
+D:\WinForms\7.1-NewAplication\7.1-NewAplication\bin\Debug\netcoreapp3.1\7.1-NewAplication.runtimeconfig.dev.json
+D:\WinForms\7.1-NewAplication\7.1-NewAplication\bin\Debug\netcoreapp3.1\7.1-NewAplication.dll
+D:\WinForms\7.1-NewAplication\7.1-NewAplication\bin\Debug\netcoreapp3.1\7.1-NewAplication.pdb
+D:\WinForms\7.1-NewAplication\7.1-NewAplication\obj\Debug\netcoreapp3.1\7.1-NewAplication.csprojAssemblyReference.cache
+D:\WinForms\7.1-NewAplication\7.1-NewAplication\obj\Debug\netcoreapp3.1\_7._1_NewAplication.Form1.resources
+D:\WinForms\7.1-NewAplication\7.1-NewAplication\obj\Debug\netcoreapp3.1\7.1-NewAplication.csproj.GenerateResource.cache
+D:\WinForms\7.1-NewAplication\7.1-NewAplication\obj\Debug\netcoreapp3.1\7.1-NewAplication.AssemblyInfoInputs.cache
+D:\WinForms\7.1-NewAplication\7.1-NewAplication\obj\Debug\netcoreapp3.1\7.1-NewAplication.AssemblyInfo.cs
+D:\WinForms\7.1-NewAplication\7.1-NewAplication\obj\Debug\netcoreapp3.1\7.1-NewAplication.csproj.CoreCompileInputs.cache
+D:\WinForms\7.1-NewAplication\7.1-NewAplication\obj\Debug\netcoreapp3.1\7.1-NewAplication.dll
+D:\WinForms\7.1-NewAplication\7.1-NewAplication\obj\Debug\netcoreapp3.1\7.1-NewAplication.pdb
+D:\WinForms\7.1-NewAplication\7.1-NewAplication\obj\Debug\netcoreapp3.1\7.1-NewAplication.genruntimeconfig.cache

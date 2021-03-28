@@ -1,0 +1,15 @@
+D:\WinForms\7.2-Form\7.2-Form\bin\Debug\netcoreapp3.1\7.2-Form.exe
+D:\WinForms\7.2-Form\7.2-Form\bin\Debug\netcoreapp3.1\7.2-Form.deps.json
+D:\WinForms\7.2-Form\7.2-Form\bin\Debug\netcoreapp3.1\7.2-Form.runtimeconfig.json
+D:\WinForms\7.2-Form\7.2-Form\bin\Debug\netcoreapp3.1\7.2-Form.runtimeconfig.dev.json
+D:\WinForms\7.2-Form\7.2-Form\bin\Debug\netcoreapp3.1\7.2-Form.dll
+D:\WinForms\7.2-Form\7.2-Form\bin\Debug\netcoreapp3.1\7.2-Form.pdb
+D:\WinForms\7.2-Form\7.2-Form\obj\Debug\netcoreapp3.1\7.2-Form.csprojAssemblyReference.cache
+D:\WinForms\7.2-Form\7.2-Form\obj\Debug\netcoreapp3.1\_7._2_Form.Form1.resources
+D:\WinForms\7.2-Form\7.2-Form\obj\Debug\netcoreapp3.1\7.2-Form.csproj.GenerateResource.cache
+D:\WinForms\7.2-Form\7.2-Form\obj\Debug\netcoreapp3.1\7.2-Form.AssemblyInfoInputs.cache
+D:\WinForms\7.2-Form\7.2-Form\obj\Debug\netcoreapp3.1\7.2-Form.AssemblyInfo.cs
+D:\WinForms\7.2-Form\7.2-Form\obj\Debug\netcoreapp3.1\7.2-Form.csproj.CoreCompileInputs.cache
+D:\WinForms\7.2-Form\7.2-Form\obj\Debug\netcoreapp3.1\7.2-Form.dll
+D:\WinForms\7.2-Form\7.2-Form\obj\Debug\netcoreapp3.1\7.2-Form.pdb
+D:\WinForms\7.2-Form\7.2-Form\obj\Debug\netcoreapp3.1\7.2-Form.genruntimeconfig.cache
